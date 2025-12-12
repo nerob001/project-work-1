@@ -23,6 +23,7 @@ Difficulty increases gradually as time progresses.
 
 ## Screenshots
 
+
 ## Controls
 - Left Arrow: Move left
 - Right Arrow: Move right
@@ -49,7 +50,7 @@ g++ -std=c++17 main.cpp -o CatchTheCircle \
 ---
 
 ##Important
-#Need a .vs file for Visual Studio
+-Need a .vs file for Visual Studio
 
 
 
