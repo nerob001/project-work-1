@@ -26,6 +26,7 @@ Difficulty increases gradually as time progresses.
 ![image alt](https://github.com/nerob001/project-work-1/blob/c0fb8d1fc5c77e748863b7406750fca57bff1db6/Screenshot%202025-12-12%20123240.png)
 ![image alt](https://github.com/nerob001/project-work-1/blob/7d90bf92202f279d1b8ffc41f361a85af58fcdd5/Screenshot%202025-12-12%20123253.png)
 ![image alt](https://github.com/nerob001/project-work-1/blob/ea47ab6f2b33b7db96798b1af46ce7c372fcf519/Screenshot%202025-12-12%20124327.png)
+![image alt](https://github.com/nerob001/project-work-1/blob/9acf658dae44464f33a2846e3202347d2b1fde3b/Screenshot%202025-12-12%20123316.png)
 
 
 
