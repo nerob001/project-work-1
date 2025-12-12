@@ -22,7 +22,7 @@ Difficulty increases gradually as time progresses.
 ---
 
 ## Screenshots
-
+![image alt](https://github.com/nerob001/project-work-1/blob/22144d61594ecaad6b6b1ba0cfbc0c0533cdca1b/game.png)
 
 ## Controls
 - Left Arrow: Move left
